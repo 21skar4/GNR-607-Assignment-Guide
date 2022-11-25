@@ -4,10 +4,10 @@
 This is a guide for using the colab notebook of our assignment.
 
 
-1. **Open colab in your browser.
-2. **Open our asssignment file.
-3. **Download the input image files to either temporarily or permanently using the upload options present on the top left corner of your colab notebook.
-   The uploaded file will be lost if it is upload temporarily.
+1. **Open colab in your browser.**
+2. **Open our asssignment file.**
+3. **Download the input image files to either temporarily or permanently using the upload options present on the top left corner of your colab notebook.**
+   **The uploaded file will be lost if it is upload temporarily.**
 
 ![App Screenshot](https://user-images.githubusercontent.com/78019202/203922484-dfd400d4-cd42-4541-a262-6500d537be0b.jpeg)
 
