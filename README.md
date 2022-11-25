@@ -15,7 +15,7 @@ This is a guide for using the colab notebook of our assignment.
 4. Copy the path of the input image file you have uploaded.
 5. Paste the copied path in "Loading the image" section of the notebook.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](![2](https://user-images.githubusercontent.com/78019202/203922799-5d56b25a-5d99-47a8-ade1-6f33fc7c4105.jpeg))
 
 
 6. Now you can run the program in its default state.
