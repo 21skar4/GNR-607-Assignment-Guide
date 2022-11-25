@@ -9,7 +9,7 @@ This is a guide for using the colab notebook of our assignment.
 3. Download the input image files to either temporarily or permanently using the upload options present on the top left corner of your colab notebook.
    The uploaded file will be lost if it is upload temporarily.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://user-images.githubusercontent.com/78019202/203922484-dfd400d4-cd42-4541-a262-6500d537be0b.jpeg)
 
    
 4. Copy the path of the input image file you have uploaded.
