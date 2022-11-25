@@ -20,7 +20,7 @@ This is a guide for using the colab notebook of our assignment.
 
 6. Now you can run the program in its default state.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://user-images.githubusercontent.com/78019202/203923411-156343e0-dcd1-4524-90f5-c0f70f08de22.jpeg)
 
 
 7. If you wish to change the parmeters of the algorithms, e.g. value of the exponent power in case of log contrast enhancemnet.
