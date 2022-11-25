@@ -15,7 +15,7 @@ This is a guide for using the colab notebook of our assignment.
 4. Copy the path of the input image file you have uploaded.
 5. Paste the copied path in "Loading the image" section of the notebook.
 
-![App Screenshot]([https://github.com/21skar4/GNR-607-Assignment-Guide/issues/3](https://user-images.githubusercontent.com/78019202/203923023-76176206-314c-42ed-ae91-b25cf639cb74.jpeg))
+![App Screenshot](https://user-images.githubusercontent.com/78019202/203923023-76176206-314c-42ed-ae91-b25cf639cb74.jpeg)
 
 
 6. Now you can run the program in its default state.
