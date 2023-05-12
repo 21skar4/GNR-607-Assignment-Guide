@@ -1,5 +1,5 @@
 
-# GNR 607 Assignment 
+# Image Contrast Enhancement
 
 This is a guide for using the colab notebook of our assignment.
 
